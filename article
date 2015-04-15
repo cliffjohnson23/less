@@ -1,0 +1,7 @@
+.plan-article {
+	margin: auto; 
+	border: none; 
+	border-radius: 10px; 
+	padding: 30px; 
+	line-height: 16px;
+}
